@@ -1,0 +1,2 @@
+### MINI DESKTOP SEARCH ENGINE
+Within the scope of the Data Structures course project, we developed a mini desktop search engine in the Java programming language. In this project, we provided word search functionality using binary search trees and linked list structures. The program reads a file containing user-defined banned words and stores these words in a hash set. Then, it adds words from selected files to the binary search tree if they are not found in the hash set. Additionally, we keep track of the occurrences of each word in which file using a linked list.
